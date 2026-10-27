@@ -31,7 +31,7 @@ Currently, Sorcero is available natively for Windows 10/11 (64-bit). However, ma
 3. Download the latest Windows release bundle (.exe installer or portable .zip).
 4. Extract the contents (if downloading a ZIP), then run the installer to install Sorcero.
 
-*Note on Security Warnings:* Because Sorcero is an open-source/indie desktop application without an expensive EV code-signing certificate, Windows Defender SmartScreen may display a warning ("Windows protected your PC") upon opening the file. This is expected for newly released executables. You can safely launch the application by clicking "More info" and then selecting "Run anyway". Additional anti-virus software like Norton, Malwarebytes, etc. may also perform a similar warning. As always, software downloaded from the internet should always be verified and you should trust the source you are downloading it from. Do not run executables for this application if they were acquired from anywhere other than this repository or directly from me. 
+*Note on Security Warnings:* Because Sorcero is an open-source/indie desktop application without an expensive EV code-signing certificate, Windows Defender SmartScreen may display a warning ("Windows protected your PC") upon opening the file. This is expected for newly released executables. You can safely launch the application by clicking "More info" and then selecting "Run anyway". Additional anti-virus software like Norton, Malwarebytes, etc. may also perform a similar warning. As always, software downloaded from the internet should always be verified, and you should trust the source you are downloading it from. Do not run executables for this application if they were acquired from anywhere other than this repository or directly from me. 
 
 ## Issues & Feedback
 
@@ -41,8 +41,6 @@ Since this repository is used only for binary distribution, please report any bu
 * Feature Requests: Share your feedback to help shape future releases!
 
 ## Legal & Disclaimer
-
-Sorcero is an unofficial, fan-made utility for Warhammer 40,000: Tacticus. Games Workshop, Warhammer, and all associated logos, illustrations, images, names, creatures, races, vehicles, locations, weapons, and characters are either ® or ™, and/or © Games Workshop Limited, variably registered around the world. All rights reserved to their respective owners.
 
 Sorcero is an unofficial, fan-made utility for Warhammer 40,000: Tacticus. 
 
